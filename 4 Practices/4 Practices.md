@@ -633,7 +633,7 @@ These times are based on practical experience and are used as a general referenc
 | Management, Uber Manager | ~3 hours |
 | Controllers, Pages, Clients | ~1 hour |
 
-> These estimates represent typical implementation durations for a single service or component, assuming standard complexity and no external dependencies.
+These estimates represent typical implementation durations for a single service or component, assuming standard complexity and no external dependencies.
 
 ### 4.2.2 Ranks
 The following are the ranks based on the life-time accumalation and contribution to The Standard Community and Standard-Compliant projects:
